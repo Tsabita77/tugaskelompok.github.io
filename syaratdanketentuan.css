@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    text-align: justify;
+}

@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    margin: 10px;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+}
